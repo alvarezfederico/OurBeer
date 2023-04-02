@@ -1,0 +1,32 @@
+[{
+        "precio": 600,
+        "id": 1,
+        "title": "Ipa",
+        "imagen": "./assets/imagenes/american-ipa.png"
+
+    },
+    {
+        "precio": 500,
+        "id": 2,
+        "title": "Irish Red",
+        "imagen": "./assets/imagenes/irish-red.png"
+    },
+    {
+        "precio": 450,
+        "id": 3,
+        "title": "Golden",
+        "imagen": "./assets/imagenes/golden-ale.png"
+    },
+    {
+        "precio": 550,
+        "id": 4,
+        "title": "Porter",
+        "imagen": "./assets/imagenes/porter.png"
+    },
+    {
+        "precio": 600,
+        "id": 5,
+        "title": "Honey",
+        "imagen": "./assets/imagenes/honey.png"
+    }
+]
